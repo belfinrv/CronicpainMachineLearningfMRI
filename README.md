@@ -49,9 +49,6 @@ The study's findings indicate that specific brain activity patterns can reliably
 ## Conclusion
 The study demonstrates the potential of using machine learning and fMRI data to classify chronic pain patients, with promising accuracy, sensitivity, and specificity metrics. Further research is needed to refine these methods and explore their application in clinical settings.
 
-## Acknowledgment
-The experimental design was conceptualized by Rejula V, Anitha J, and Belfin R V. Preprocessing tasks were undertaken collaboratively by Rejula V and Belfin R V. The execution of the Machine Learning analyses was conducted by Rejula V, while the interpretation of the results was a joint effort involving Rejula V, Anitha J, and Belfin R V.
-
 ## Cite
 ROBINSON, B. (2023). Classification of chronic pain using fMRI data: Unveiling brain activity patterns for diagnosis. Turkish Journal of Electrical Engineering and Computer Sciences, 31(6), 1061-1078.
 
