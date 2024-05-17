@@ -39,12 +39,12 @@ The study found that the Pauli and MSDL atlases performed best for classifying c
 ### Region of Interests Contributing to Chronic Pain Classification
 Key brain regions contributing to chronic pain classification were identified using probability-based feature importance methods. Top regions included the extended Amygdala, Subthalamic nucleus, Hypothalamus, and Caudate Nucleus for the Pauli atlas and the Left Frontal Pole, Medial Default Mode Network, and others for the MSDL atlas.
 
-![Image 2: Accuracy of Various Algorithms](path_to_accuracy_image)
-![Image 2: Sensitivity of Classification Models](path_to_sensitivity_image)
-![Image 3: Specificity of Classification Models](path_to_specificity_image)
+![Image 2: Accuracy of Various Algorithms](2pain.png)
+
 
 ## Discussion
 The study's findings indicate that specific brain activity patterns can reliably classify individuals as chronic pain patients or healthy controls. These insights could inform better diagnostic and therapeutic strategies for chronic pain.
+![Image 3: Best models various atlas](3pain.png)
 
 ## Conclusion
 The study demonstrates the potential of using machine learning and fMRI data to classify chronic pain patients, with promising accuracy, sensitivity, and specificity metrics. Further research is needed to refine these methods and explore their application in clinical settings.
