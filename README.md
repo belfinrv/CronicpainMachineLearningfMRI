@@ -5,6 +5,8 @@ Millions of people worldwide suffer from chronic pain, a complex and debilitatin
 
 ## Materials and Methods
 
+![Image 2: Framework ](1pain.png)
+
 ### Dataset
 Data from 76 participants (30 chronic pain patients and 46 healthy controls) were used. The fMRI data were preprocessed using fMRIprep and parcellated using various atlases, including MSDL, Yeo’17, Harvard, Schaefer, and Pauli.
 
@@ -37,7 +39,7 @@ The study found that the Pauli and MSDL atlases performed best for classifying c
 ### Region of Interests Contributing to Chronic Pain Classification
 Key brain regions contributing to chronic pain classification were identified using probability-based feature importance methods. Top regions included the extended Amygdala, Subthalamic nucleus, Hypothalamus, and Caudate Nucleus for the Pauli atlas and the Left Frontal Pole, Medial Default Mode Network, and others for the MSDL atlas.
 
-![Image 1: Accuracy of Various Algorithms](path_to_accuracy_image)
+![Image 2: Accuracy of Various Algorithms](path_to_accuracy_image)
 ![Image 2: Sensitivity of Classification Models](path_to_sensitivity_image)
 ![Image 3: Specificity of Classification Models](path_to_specificity_image)
 
